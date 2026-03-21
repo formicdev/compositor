@@ -4,7 +4,7 @@
 //  Untitled.swift
 //  Compositor
 //
-//  Created by formic on 9/20/25.
+//  Created by Formic on 9/20/25.
 //
 
 //
