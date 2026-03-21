@@ -1,5 +1,13 @@
 public class main{
 public static void (String args[]){
-System.out.println(hello)
+//
+//im gon be honest idek why theres java in here tf
+//
+//
+//hi
+//
+//
+//
+//
 }
 }
