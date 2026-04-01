@@ -17,6 +17,37 @@ import UIKit
 
 import CoreHaptics
 
+struct prepareContent(){
+
+    
+    
+    func reloadAnecdotes(){
+        //check timestamp of current anecdotes
+        //check composites created since last refresh
+        //sort each into their own list and reload each
+        //
+        //
+    }
+
+    func reloadContentData(){
+        //reloads search suggestions 
+    }
+
+    func reloadHome(){
+        //refreshes home interface layout
+        //use tile system
+    }
+    
+
+}
+
+enum homeTile{
+    case spacer
+    case carousel
+    case anecdoteFan
+    
+}
+
 class HapticFadeController {
     private var engine: CHHapticEngine?
     private var timer: Timer?
